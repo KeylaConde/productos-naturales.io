@@ -101,6 +101,7 @@ main .carousel-inner img {
 
   #footer {
     background: url(./images/hojas-verdes.jpg);
+    background-size: cover;
     height: 13rem;
     margin-top: 35px;
   }
